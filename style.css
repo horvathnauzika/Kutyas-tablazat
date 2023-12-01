@@ -1,0 +1,35 @@
+main{
+    color: #000F94;
+}
+caption{
+    padding: 10px;
+    font-size: large;
+}
+
+table{
+    border: 1px solid grey;
+    border-collapse:collapse;
+    padding: 2px;
+    margin: auto;
+    width: 600px;
+    max-width: 90%;
+    
+}
+td{
+    border: 1px solid grey;
+    text-align: center;
+    padding: 2px;
+    
+}
+th{
+    border: 1px solid grey;
+}
+
+.elso{
+    background-color: #C9D7FF;
+}
+
+.masodik{
+    background-color: #D0FFC9;
+}
+
